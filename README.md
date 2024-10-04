@@ -1,4 +1,4 @@
-## cryptoticker
+## crypto_ticker
 Cryptoticker in bash with API
 </br></br>
 
